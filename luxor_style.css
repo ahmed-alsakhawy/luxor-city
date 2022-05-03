@@ -1,3 +1,12 @@
+#header a{
+    color: #bb4a4a;
+    text-decoration-line: none;
+}
+
+#header a:hover{
+    color: #bb4a4a;
+}
+
 .des{
     font-family: Arial, Helvetica, sans-serif;
 }
